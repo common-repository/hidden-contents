@@ -1,0 +1,6 @@
+.hide-block{
+	display: inline-block!important;
+	background: #e1e1e1;
+	height: 10px;
+	padding: 0 5px;
+}
